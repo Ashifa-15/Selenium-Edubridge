@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-26T16:41:47 IST" name="Default suite" finished-at="2023-09-26T16:46:09 IST" duration-ms="262622">
+    <groups>
+    </groups>
+    <test started-at="2023-09-26T16:41:47 IST" name="Default test" finished-at="2023-09-26T16:46:09 IST" duration-ms="262622">
+      <class name="Selenium.TestNg">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:Selenium.TestNg@3d285d7e]" started-at="2023-09-26T16:41:14 IST" name="beforeSuite" finished-at="2023-09-26T16:41:47 IST" duration-ms="32783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Selenium.TestNg@3d285d7e]" started-at="2023-09-26T16:41:47 IST" name="beforeTest" finished-at="2023-09-26T16:42:41 IST" duration-ms="53974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Selenium.TestNg@3d285d7e]" started-at="2023-09-26T16:42:41 IST" name="beforeClass" finished-at="2023-09-26T16:43:31 IST" duration-ms="50308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Selenium.TestNg@3d285d7e]" started-at="2023-09-26T16:43:31 IST" name="beforeMethod" finished-at="2023-09-26T16:44:05 IST" duration-ms="33444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase1()[pri:0, instance:Selenium.TestNg@3d285d7e]" started-at="2023-09-26T16:44:05 IST" name="testCase1" finished-at="2023-09-26T16:45:14 IST" duration-ms="69765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.TestNg@3d285d7e]" started-at="2023-09-26T16:45:14 IST" name="afterMethod" finished-at="2023-09-26T16:46:09 IST" duration-ms="54999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
